@@ -31,5 +31,10 @@ background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f
     font-weight: bold;
     text-align: center;
 }
+.div{
+    background-image: url("https://res.cloudinary.com/cloudinary-marketing/images/w_700,h_432/f_auto,q_auto/v1649720751/Web_Assets/blog/Mario_1/Mario_1-gif?_i=AA");
+    background-position:bottom;
+    
+}
 
 
