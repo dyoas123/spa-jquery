@@ -3,7 +3,8 @@ $(document).ready(function() {
     
     // Initial content to display when the SPA loads
     contentDiv.load('views/home.html');
-    
+    document.getAnimations("dyoas");
+    document.getElementById("dyoasa");
     // Handle navigation links
     $('nav a').on('click', function(event) {
         event.preventDefault();
